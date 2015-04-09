@@ -1,0 +1,5 @@
+{
+    "MicrosoftAzureStorage": {
+        "baseballstatistics_AzureStorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=baseballstatistics;AccountKey=WQOyDoMxjb1lm4LZLP4Qm65niCq9atQMJg/f5R7DguAAOtoHP2kNX0kiMi2oidRtkDAjnA0beGeRPLSlmJrlLA=="
+    }
+}
