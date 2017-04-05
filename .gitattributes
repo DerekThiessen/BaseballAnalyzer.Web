@@ -21,4 +21,4 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 
-src/BaseballAnalyzer.Web/node-modules/* linguist-vendored
+/src/BaseballAnalyzer.Web/node-modules/* linguist-vendored
