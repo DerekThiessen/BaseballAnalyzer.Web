@@ -20,3 +20,5 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+
+BaseballAnalyzer.Web/src/BaseballAnalyzer.Web/node_modules/* linguist-vendored
